@@ -27,7 +27,6 @@ To write a Python program that generates **Pascal's Triangle** using numbers. Th
 ---
 
 ## 🧪 Program
-Add Code Here
 ```
 rows = int(input())
 coef = 1
